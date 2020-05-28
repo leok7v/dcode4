@@ -46,7 +46,7 @@ Code is not optimized for performance in a sake of simplisity.
 It is trivial to implement much faster table driven optimized decoder. 
 
 
-![alt text](https://raw.githubusercontent.com/123/greyscale.128x128.bin.pgm "greyscale.128x128.bin.pgm")
+![alt text](https://raw.githubusercontent.com/leok7v/dcode4/master/greyscale.128x128.png "greyscale.128x128.bin.png")
 
 greyscale.128x128.bin.pgm 16445 compressed to 9073 bytes 55.2%
 
